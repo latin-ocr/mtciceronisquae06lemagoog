@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtciceronisquae06lemagoog_0005.png"; bbox 0 0 2994 4778; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 277 1360 2182 1537">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 277 1360 2182 1537">
+     <span class='ocr_line' id='line_1_1' title="bbox 277 1360 2182 1537; baseline 0.001 -6"><span class='ocrx_word' id='word_1_1' title='bbox 277 1360 2182 1537; x_wconf 85' lang='lat' dir='ltr'><strong>BIBLIOTHECA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 596 1711 1842 1803">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 596 1711 1842 1803">
+     <span class='ocr_line' id='line_1_2' title="bbox 596 1711 1842 1803; baseline -0.002 -2"><span class='ocrx_word' id='word_1_2' title='bbox 596 1711 1261 1803; x_wconf 85' lang='lat' dir='ltr'><strong>CLASSICA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1336 1711 1842 1800; x_wconf 85' lang='lat' dir='ltr'><strong>LATINA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 226 2040 2293 2580">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 226 2040 2293 2650">
+     <span class='ocr_line' id='line_1_3' title="bbox 402 2040 1995 2392; baseline -0.009 -65"><span class='ocrx_word' id='word_1_4' title='bbox 402 2040 1995 2392; x_wconf 14' lang='lat' dir='ltr'>scoLLEch</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 226 2480 2293 2580; baseline 0.001 -15"><span class='ocrx_word' id='word_1_5' title='bbox 226 2480 831 2580; x_wconf 72' lang='lat' dir='ltr'><strong>AUOE&#39;ORUM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 883 2484 1606 2568; x_wconf 87' lang='lat' dir='ltr'><strong>CLASSICORUM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1660 2486 2293 2571; x_wconf 86' lang='lat' dir='ltr'><strong>LATINORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 647 2747 1769 2804">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 647 2747 1769 2804">
+     <span class='ocr_line' id='line_1_5' title="bbox 647 2747 1769 2804; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 647 2748 827 2804; x_wconf 72' lang='lat' dir='ltr'><strong>CUM</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 884 2747 1129 2802; x_wconf 81' lang='lat' dir='ltr'>NOTls</span> <span class='ocrx_word' id='word_1_10' title='bbox 1183 2747 1286 2802; x_wconf 86' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1341 2747 1769 2804; x_wconf 75' lang='lat' dir='ltr'><strong>mutemus</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
